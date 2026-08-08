@@ -1,0 +1,6 @@
+@IdentityJwtAuthDemo.PublicApi_HostAddress = http://localhost:5262
+
+GET {{IdentityJwtAuthDemo.PublicApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/IdentityJwtAuthDemo.PublicApi/IdentityJwtAuthDemo.PublicApi.csproj" />
+  </Folder>
+</Solution>
