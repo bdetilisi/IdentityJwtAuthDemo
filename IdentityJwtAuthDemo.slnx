@@ -3,6 +3,8 @@
     <File Path=".editorconfig" />
   </Folder>
   <Folder Name="/src/">
+    <Project Path="src/IdentityJwtAuthDemo.Application/IdentityJwtAuthDemo.Application.csproj" />
+    <Project Path="src/IdentityJwtAuthDemo.Infrastructure/IdentityJwtAuthDemo.Infrastructure.csproj" />
     <Project Path="src/IdentityJwtAuthDemo.PublicApi/IdentityJwtAuthDemo.PublicApi.csproj" />
   </Folder>
 </Solution>

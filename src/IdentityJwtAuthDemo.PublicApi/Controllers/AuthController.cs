@@ -1,8 +1,6 @@
-using FluentResults;
-using Microsoft.AspNetCore.Mvc;
-using IdentityJwtAuthDemo.Application.Interfaces;
 using IdentityJwtAuthDemo.Application.Auth.Requests;
-using IdentityJwtAuthDemo.Application.Auth.Responses;
+using IdentityJwtAuthDemo.Application.Interfaces;
+using Microsoft.AspNetCore.Mvc;
 
 namespace IdentityJwtAuthDemo.PublicApi.Controllers;
 
